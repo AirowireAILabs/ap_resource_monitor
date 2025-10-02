@@ -1,0 +1,17 @@
+# Python ignores
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.egg
