@@ -1,1 +1,1 @@
-from .monitor import APResourceMonitor
+from monitor import APResourceMonitor
